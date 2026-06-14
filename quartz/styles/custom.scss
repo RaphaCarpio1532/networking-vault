@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// --- CMedia&Tech: bigger, centered graph under each note ---
+.graph {
+  margin-top: 2rem;
+
+  .graph-outer {
+    height: 500px;
+  }
+}
